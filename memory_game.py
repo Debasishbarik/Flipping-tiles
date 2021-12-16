@@ -5,7 +5,6 @@ from turtle import *
 # set the screen
 screen = Screen()
 
-#choose background color
 screen.bgcolor("yellow")
 
 # define the function for creating a square section for the game
